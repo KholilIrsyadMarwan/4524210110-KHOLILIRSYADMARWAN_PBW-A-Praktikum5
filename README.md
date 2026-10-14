@@ -1,6 +1,6 @@
 # 📘 Laporan Praktikum Pertemuan Ke - 5
 
-🧑‍🎓 Naufal Maulana Saputra - 4523210083
+🧑‍🎓 Kholil Irsyad Marwan - 4524210110
 
 # 🏫 Website SMP Mentari Ceria
 
