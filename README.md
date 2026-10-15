@@ -136,23 +136,13 @@ Website SMP Mentari Ceria adalah aplikasi web sederhana yang dibangun dengan Lar
 ### Halaman Dashboard
 
 Dashboard di akses ketika sudah login dan bisa mengatur atau pusat kendali dari website SMP Mentari
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7cc61dc-9829-4b7c-b6fe-8f0ca5219578" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5ad41b2-4b7e-4a5f-84fd-ee30bff50e25" />
-
+<img width="1600" height="578" alt="5" src="https://github.com/user-attachments/assets/890ce304-d90f-47e9-8e51-6584ed9e33f6" />
 Kendali atau mengelola kegiatan SMP Mentari
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cb3d83f-d7ef-435a-8eca-88d56d8b293a" />
-
+<img width="1600" height="598" alt="6" src="https://github.com/user-attachments/assets/7b93fef6-415e-452c-a0b0-457afe199d98" />
 Kelola Buku Tamu
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28af5ada-efb2-4f30-8b79-9ca7e41ea285" />
-
+<img width="1441" height="630" alt="7" src="https://github.com/user-attachments/assets/01b9db9b-c357-4c6b-9c0a-c013cde28063" />
 Konfigurasi tampilan Home Kegiatan per page dengan default nya 6 (Bisa diubah sesuai keinginan)
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c90e5fe0-69c9-4137-8112-a0101aef31d7" />
-
+<img width="1600" height="778" alt="8" src="https://github.com/user-attachments/assets/bffd72db-1a7e-402c-be73-fe2a352ec520" />
 <p align="center">
 Made with ❤️ for SMP Mentari Ceria
 </p>
