@@ -17,7 +17,7 @@ Aplikasi website sekolah berbasis Laravel yang menampilkan informasi kegiatan se
 ### 1. Clone Repository
 
 ```bash
-git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum5.git.git](https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum5.git)
+git clone https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum5.git
 cd 4524210110-KHOLILIRSYADMARWAN_PBW-A-Praktikum5/SMP-Mentari
 ```
 
